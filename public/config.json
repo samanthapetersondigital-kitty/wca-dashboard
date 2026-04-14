@@ -1,0 +1,16 @@
+{
+  "clientName": "Scott Wiener",
+  "clientInitials": "SW",
+  "cycle": "2025–2026",
+  "digitalPctMin": 10,
+  "digitalPctMax": 15,
+  "files": {
+    "email": "{PREFIX}_1_Email_Stats.xlsx",
+    "listSize": "{PREFIX}_2_List_Size.xlsx",
+    "finances": "{PREFIX}_3_Finances.xlsx",
+    "texting": "{PREFIX}_4_Texting_ROI.xlsx",
+    "metaAds": "{PREFIX}_5_Meta_Ads.xlsx",
+    "googleAds": "{PREFIX}_6_Google_Ads.xlsx",
+    "acquisition": "{PREFIX}_7_Acquisition_ROI.xlsx"
+  }
+}
